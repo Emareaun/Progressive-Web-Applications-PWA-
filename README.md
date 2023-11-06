@@ -31,25 +31,6 @@ Click the INSTALL button at the top to download the application and use it offli
 ### Deploy
 https://intense-atoll-21869-fcf1f216457c.herokuapp.com/
 
-### Images
-
-* Asset Cache
-
-<img width="1743" alt="Screenshot 2023-10-02 at 4 39 16 PM" src="https://github.com/iggy-ziggy/PWA-Text-Editor/assets/128410000/adffc779-27d0-4cd1-ab84-e9e196519083">
-
-* IndexedDB Storage
-
-<img width="1746" alt="Screenshot 2023-10-02 at 4 38 21 PM" src="https://github.com/iggy-ziggy/PWA-Text-Editor/assets/128410000/59ed9301-1ea0-4c87-a707-da7319051680">
-
-* Manifest
-
-<img width="1743" alt="Screenshot 2023-10-02 at 4 38 34 PM" src="https://github.com/iggy-ziggy/PWA-Text-Editor/assets/128410000/e0d191cd-3e87-4e12-8518-e91545d68ade">
-
-* Service Worker
-
-<img width="1743" alt="Screenshot 2023-10-02 at 4 38 50 PM" src="https://github.com/iggy-ziggy/PWA-Text-Editor/assets/128410000/88229da7-d369-4b6d-9bdf-be2e00aaae88">
-
-
 ## License
 [Link to MIT License](https://opensource.org/licenses/MIT)
 
@@ -63,8 +44,8 @@ n/a
 
 ## Questions
 
-GitHub Profile: (https://github.com/iggy-ziggy)
+GitHub Profile: (https://github.com/Emareaun)
 
 If you have any questions, feel free to contact me at:
-merkabafox@gmail.com
+emareaun12345@gmail.com
 
