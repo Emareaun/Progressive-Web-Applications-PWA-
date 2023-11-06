@@ -18,7 +18,7 @@ A single-page text editor PWA that runs in the browser.
 
 ## Installation
 
-git clone git@github.com:iggy-ziggy/PWA-Text-Editor.git
+git clone git@github.com:Emareaun/Progressive-Web-Applications-PWA-.git
 
 After cloning, run `npm i` in your terminal to install dependencies. Once installed, run `npm start` to use the application. Navigate to http://localhost:3000 to view the running application.
 
